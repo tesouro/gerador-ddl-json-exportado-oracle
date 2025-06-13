@@ -2,6 +2,8 @@
 
 > Gere scripts SQL (INSERT/UPDATE) facilmente a partir de arquivos JSON exportados do Oracle, com interface web moderna em React + Material UI.
 
+Acesse em: https://tesouro.github.io/gerador-ddl-json-exportado-oracle/
+
 ## Visão Geral
 
 Este projeto é uma aplicação web que permite importar arquivos JSON exportados do Oracle (estrutura `results[0].items`) e gerar scripts SQL para popular ou atualizar tabelas do banco de dados. Ideal para DBAs, desenvolvedores e analistas que precisam transformar dados exportados em comandos SQL rapidamente.
